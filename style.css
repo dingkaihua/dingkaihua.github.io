@@ -1,0 +1,22 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.name {
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.bio {
+    font-size: 1em;
+    color: #333;
+    margin-top: 20px;
+}
